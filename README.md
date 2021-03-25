@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Nikesh 👋</h1> 
 
-I'm mostly fond of working on problems that involve designing and devleopment. I also love exploring new technologies/projects. Feel free to message me about projects and if you like my projects then consider starring them.
+I'm mostly fond of working on problems that involve designing and devleopment. I also love exploring new technologies/projects. Feel free to message me about projects and if you like my projects then consider ⭐starring⭐ them
 
 <p align="center">
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/nikesh-kumar/"><img alt="LinkedIn" height ="24px" style="margin:5px" src="images/li.png"></a>
