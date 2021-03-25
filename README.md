@@ -10,21 +10,23 @@ I'm mostly fond of working on problems that involve designing and devleopment. I
 </p>
 
 <h2 align="center">Languages & Tools💻</h2>
-<img align="left"alt="Python" height ="42px" style="margin:5px" src="images/python.png">
-<img align="left"alt="Java" height ="42px" style="margin:5px" src="images/java.png">
-<img align="left"alt="cpp" height ="42px" style="margin:5px" src="images/cpp.png">
-<img align="left"alt="mongodb" height ="42px" style="margin:5px" src="images/mongodb.png">
-<img align="left"alt="express" height ="42px" style="margin:5px" src="images/expressjs-logo.png">
-<img align="left"alt="react" height ="42px" style="margin:5px" src="images/react.png">
-<img align="left"alt="node" height ="42px" style="margin:5px" src="images/js.png">
-<img align="left"alt="flask" height ="42px" style="margin:5px" src="images/flask-logo.png">
-<img align="left"alt="fastapi" height ="42px" style="margin:5px" src="images/fastapi-logo.png">
-<img align="left"alt="latex" height ="42px" style="margin:5px" src="images/latex.png">
-<img align="left"alt="cc" height ="42px" style="margin:5px" src="images/cc.png">
-<img align="left"alt="affinity" height ="42px" style="margin:5px" src="images/serif.png">
-<img align="left"alt="blender" height ="42px" style="margin:5px" src="images/blend.png">
+<p align="center">
+<img align="center" alt="Python" height ="42px" style="margin:5px" src="images/python.png">
+<img align="center" alt="Java" height ="42px" style="margin:5px" src="images/java.png">
+<img align="center" alt="cpp" height ="42px" style="margin:5px" src="images/cpp.png">
+<img align="center" alt="mongodb" height ="42px" style="margin:5px" src="images/mongodb.png">
+<img align="center" alt="express" height ="42px" style="margin:5px" src="images/expressjs-logo.png">
+<img align="center" alt="react" height ="42px" style="margin:5px" src="images/react.png">
+<img align="center" alt="node" height ="42px" style="margin:5px" src="images/js.png">
+<img align="center" alt="flask" height ="42px" style="margin:5px" src="images/flask-logo.png">
+<img align="center" alt="fastapi" height ="42px" style="margin:5px" src="images/fastapi-logo.png">
+<img align="center" alt="latex" height ="42px" style="margin:5px" src="images/latex.png">
+<img align="center" alt="cc" height ="42px" style="margin:5px" src="images/cc.png">
+<img align="center" alt="affinity" height ="42px" style="margin:5px" src="images/serif.png">
+<img align="center" alt="blender" height ="42px" style="margin:5px" src="images/blend.png">
+</p>
 
-</br><hr>
+</br></br><hr>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img style="margin:auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikeplusdash&layout=compact&langs_count=6"></a>
 </p>
