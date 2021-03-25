@@ -10,19 +10,19 @@ I'm mostly fond of working on problems that involve designing and devleopment. I
 </p>
 
 <h2 align="center">Languages & Tools💻</h2>
-<img alt="Python" height ="42px" style="margin:5px" src="images/python.png">
-<img alt="Java" height ="42px" style="margin:5px" src="images/java.png">
-<img alt="cpp" height ="42px" style="margin:5px" src="images/cpp.png">
-<img alt="mongodb" height ="42px" style="margin:5px" src="images/mongodb.png">
-<img alt="express" height ="42px" style="margin:5px" src="images/expressjs-logo.png">
-<img alt="react" height ="42px" style="margin:5px" src="images/react.png">
-<img alt="node" height ="42px" style="margin:5px" src="images/js.png">
-<img alt="flask" height ="42px" style="margin:5px" src="images/flask-logo.png">
-<img alt="fastapi" height ="42px" style="margin:5px" src="images/fastapi-logo.png">
-<img alt="latex" height ="42px" style="margin:5px" src="images/latex.png">
-<img alt="cc" height ="42px" style="margin:5px" src="images/cc.png">
-<img alt="affinity" height ="42px" style="margin:5px" src="images/serif.png">
-<img alt="blender" height ="42px" style="margin:5px" src="images/blend.png">
+<img align="left"alt="Python" height ="42px" style="margin:5px" src="images/python.png">
+<img align="left"alt="Java" height ="42px" style="margin:5px" src="images/java.png">
+<img align="left"alt="cpp" height ="42px" style="margin:5px" src="images/cpp.png">
+<img align="left"alt="mongodb" height ="42px" style="margin:5px" src="images/mongodb.png">
+<img align="left"alt="express" height ="42px" style="margin:5px" src="images/expressjs-logo.png">
+<img align="left"alt="react" height ="42px" style="margin:5px" src="images/react.png">
+<img align="left"alt="node" height ="42px" style="margin:5px" src="images/js.png">
+<img align="left"alt="flask" height ="42px" style="margin:5px" src="images/flask-logo.png">
+<img align="left"alt="fastapi" height ="42px" style="margin:5px" src="images/fastapi-logo.png">
+<img align="left"alt="latex" height ="42px" style="margin:5px" src="images/latex.png">
+<img align="left"alt="cc" height ="42px" style="margin:5px" src="images/cc.png">
+<img align="left"alt="affinity" height ="42px" style="margin:5px" src="images/serif.png">
+<img align="left"alt="blender" height ="42px" style="margin:5px" src="images/blend.png">
 
 </br><hr>
 <p align="center">
