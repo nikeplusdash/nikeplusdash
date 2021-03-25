@@ -26,7 +26,6 @@ I'm mostly fond of working on problems that involve designing and devleopment. I
 <img align="center" alt="blender" height ="42px" style="margin:5px" src="images/blend.png">
 </p>
 
-<hr style="border:2px solid blue"> </hr>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img style="margin:auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikeplusdash&layout=compact&langs_count=6"></a>
 </p>
