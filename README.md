@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Nikesh 👋</h1> 
+<h1 align="center">Hi there, I'm Nikesh(he/him) 👋</h1> 
 
 I'm mostly fond of working on problems that involve designing and devleopment. I also love exploring new technologies/projects. Feel free to message me about projects and if you like my projects then consider ⭐starring⭐ them
 
@@ -29,6 +29,10 @@ I'm mostly fond of working on problems that involve designing and devleopment. I
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img style="margin:auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikeplusdash&layout=compact&langs_count=6"></a>
 </p>
+
+---
+
+Oh boy I sure didn't think how it'd look on phone
 
 <!--
 **nikeplusdash/nikeplusdash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
