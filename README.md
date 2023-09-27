@@ -6,7 +6,7 @@ I'm mostly fond of working on problems that involve designing and development. I
 <!-- <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/nikesh-kumar/"><img alt="LinkedIn" height ="24px" style="margin:5px" src="images/li.png"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/zespr.designs/"><img alt="Instagran" height ="24px" style="margin:5px" src="images/ig.png"></a>
 <!-- <a target="_blank" rel="noopener noreferrer" href="http://discord.com/users/428424738260647956"><img alt="Discord" height ="24px" style="margin:5px" src="images/dc.png"></a> -->
-<a target="_blank" rel="noopener noreferrer" href="mailto:nikeplusdash@gmail.com"><img alt="Email" height ="24px" style="margin:5px" src="images/em.png"></a>
+<a target="_blank" rel="noopener noreferrer" href="mailto:nikeshk@umich.edu"><img alt="Email" height ="24px" style="margin:5px" src="images/em.png"></a>
 </p>
 
 <h2 align="center">Languages & Tools💻</h2>
