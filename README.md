@@ -2,15 +2,15 @@
 
 I'm mostly fond of working on problems that involve designing and development. I also love exploring new technologies/projects. Feel free to message me about projects and if you like my projects then consider ⭐starring⭐ them
 
-<p align="center">
-<!-- <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/nikesh-kumar/"><img alt="LinkedIn" height ="24px" style="margin:5px" src="images/li.png"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/zespr.designs/"><img alt="Instagran" height ="24px" style="margin:5px" src="images/ig.png"></a>
-<!-- <a target="_blank" rel="noopener noreferrer" href="http://discord.com/users/428424738260647956"><img alt="Discord" height ="24px" style="margin:5px" src="images/dc.png"></a> -->
+<p align="left">
+<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/nikesh-kumar/"><img alt="LinkedIn" height ="24px" style="margin:5px" src="images/li.png"></a>
+<!--<a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/zespr.designs/"><img alt="Instagran" height ="24px" style="margin:5px" src="images/ig.png"></a>-->
+<!--<a target="_blank" rel="noopener noreferrer" href="http://discord.com/users/428424738260647956"><img alt="Discord" height ="24px" style="margin:5px" src="images/dc.png"></a> -->
 <a target="_blank" rel="noopener noreferrer" href="mailto:nikeshk@umich.edu"><img alt="Email" height ="24px" style="margin:5px" src="images/em.png"></a>
 </p>
 
-<h2 align="center">Languages & Tools💻</h2>
-<p align="center">
+<h2 align="left">Languages & Tools💻</h2>
+<p align="left">
 <img align="center" alt="Python" height ="42px" style="margin:5px" src="images/python.png">
 <img align="center" alt="Java" height ="42px" style="margin:5px" src="images/java.png">
 <img align="center" alt="cpp" height ="42px" style="margin:5px" src="images/cpp.png">
@@ -26,7 +26,7 @@ I'm mostly fond of working on problems that involve designing and development. I
 <img align="center" alt="blender" height ="42px" style="margin:5px" src="images/blend.png">
 </p>
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img style="margin:auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikeplusdash&layout=compact&langs_count=6"></a>
 </p>
 
